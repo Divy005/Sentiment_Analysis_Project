@@ -81,7 +81,7 @@ python 'sentiment_analysis.py'
 
 If you have any questions, suggestions, or run into issues, feel free to:
 
-- Open an [issue](https://github.com/your-username/your-repo/issues) here on GitHub  
+- Open an [issue]([https://github.com/your-username/your-repo/issues](https://github.com/Divy005/Sentiment_Analysis_Project/blob/5217cd0985a1d2543d388a369e9bd577695d4802/README.md#output)) here on GitHub  
 - Submit a pull request to contribute improvements or fixes  
 - Reach out via email: divydobariya11@gmail.com  
 
